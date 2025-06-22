@@ -1,0 +1,6 @@
+@arkbo_inventory_HostAddress = http://localhost:5281
+
+GET {{arkbo_inventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

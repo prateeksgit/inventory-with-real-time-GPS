@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/arkbo_inventory.props" />
+</Project>
